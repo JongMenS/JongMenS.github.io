@@ -1,0 +1,8 @@
+/* list-style-type: circle looks ugly big in IE, better use discs than */
+ul li { list-style-type: disc; }
+
+/* menu too much to the right */
+#menu { margin-left: 0; }
+
+/* main space too wide */
+#main { width: 40.5em; }

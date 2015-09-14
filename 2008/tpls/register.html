@@ -1,0 +1,75 @@
+	<form action="./index.php?p=Aanmelden" method="post">
+		<fieldset><div class="ie-fieldset-repair">
+			
+			<label for="realname">Echte naam</label>
+			<input id="realname" name="realname" type="text" tabindex="1" value="{REALNAME}" />
+			<br />
+			
+			<label for="emailaddress">E-mailadres</label>
+			<input id="emailaddress" name="emailaddress" type="text" tabindex="2" value="{EMAILADDRESS}" />
+			<br />
+			
+			<label for="username">Nickname</label>
+			<input id="username" name="username" type="text" tabindex="3" value="{USERNAME}" />
+			<br />
+			
+			<label for="password">Wachtwoord</label>
+			<input id="password" name="password" type="password" tabindex="4" value="{PASSWORD}" />
+			<br />
+			
+			<h3>Kaartje</h3>
+			<p>Kaartjes voor de Open Space dag kosten <strong>&euro;{TICKET_DAG}</strong>, hiervoor krijg je ook avondeten. Als je blijft feesten en overnachten betaal je <strong>&euro;{TICKET_OVERNACHT}</strong> erbij.</p>
+			
+			<label for="ticket">Dagdelen</label>
+			<select id="ticket" name="ticket" tabindex="5">
+				<option disabled="disabled" selected="selected">maak een keuze...</option>
+				<option value="dag">Open Space dag met avondeten</option>
+				<option value="overnacht">Feest met overnachting en ontbijt</option>
+				<option value="dag_overnacht">All inclusive (dag, eten, feest, slapen, ontbijt)</option>
+			</select>
+			<br />
+			
+			<label for="payment_method">Manier van betalen</label>
+			<select id="payment_method" name="payment_method" tabindex="6">
+				<option disabled="disabled" selected="selected">maak een keuze...</option>
+				<option value="overmaken">Overmaken - van te voren</option>
+				<option value="contant">Contant - op de dag zelf</option>
+				<!--<option value="ruilhandel">Ruilhandel...</option>-->
+			</select>
+			<br />
+			
+			<!--
+			<label for="payment_exchange">Ruilmiddel</label>
+			<p>Je kunt ook in natura betalen. Bijvoorbeeld door iets bij te dragen <a href="index.php?p=Wensenlijst">voor het centrum</a> of zelf iets te regelen op de dag. Geef hier aan wat je kunt bijdragen en we nemen contact met je op.</p>
+			<textarea id="payment_exchange" name="payment_exchange" tabindex="7">{PAYMENT_EXCHANGE}</textarea>
+			<br />
+			-->
+			
+			<h3>Extra informatie</h3>
+			<p>We horen graag wat meer van je. Dit hoef je niet in te vullen, maar het helpt ons om de dag in te richten.</p>
+			
+			<label for="age">Leeftijd</label>
+			<input id="age" name="age" type="text" tabindex="8" value="{AGE}" />
+			<br />
+			
+			<label for="whats_missing">Wat mis je nog in de dag?</label>
+			<textarea id="whats_missing" name="whats_missing" tabindex="9">{WHATS_MISSING}</textarea>
+			<br />
+			
+			<label for="can_you_help">Wil jij dat verzorgen?</label>
+			<textarea id="can_you_help" name="can_you_help" tabindex="10">{CAN_YOU_HELP}</textarea>
+			<br />
+			
+			<h3>Opsturen</h3>
+			
+			<label for="comments">Wil je nog wat kwijt?</label>
+			<textarea id="comments" name="comments" tabindex="11">{COMMENTS}</textarea>
+			<br />
+			
+			<input class="submit" value="Opsturen" type="submit" tabindex="12" />
+			<br />
+			
+		</div></fieldset>
+	</form>
+	
+	<p>Als je toch niet kan, neem dan <a href="index.php?p=Contact">contact</a> met ons op. Meld het vóór 15 november, anders moet je helaas alsnog betalen.</p>

@@ -1,0 +1,256 @@
+
+-----
+register post received from "Stijn Meppellenbroek" (stijnmeppellenbroek@gmail.com) coming for "dag" and "dag_overnacht"
+security check done, errors: ""
+start saving process, reg data: "fullname=Stijn Meppellenbroek,emailaddress=stijnmeppellenbroek@gmail.com,nickname=Stijn,ticket=dag_overnacht,ticketextra=dag_overnacht,sharing=,comments=,ip=82.95.246.156,time=2009-08-26T23:33:35+02:00,"
+ready for database write, data: "`fullname` = 'Stijn Meppellenbroek',`emailaddress` = 'stijnmeppellenbroek@gmail.com',`username` = 'Stijn',`ticket` = 'dag_overnacht',`sharing` = '',`comments` = '',`ip` = '82.95.246.156',`time` = '2009-08-26T23:33:35+02:00'"
+new user, not logged in.. row inserted for "stijnmeppellenbroek@gmail.com", errors: ""
+send next screen to "" (stijnmeppellenbroek@gmail.com)
+user "Stijn" (15) arrived at screen 2 (confirm one)
+user "" arrived at screen 3 (re-check one)
+
+-----
+register post received from "Stijn Meppellenbroek" () coming for "" and ""
+security check done, errors: "emailaddress=non-empty,nickname=non-empty,ticket=choose,"
+going to show errors to ""
+user sees errors: "emailaddress=non-empty,nickname=non-empty,ticket=choose,"
+
+-----
+register post received from "Stijn Meppellenbroek" () coming for "" and ""
+security check done, errors: "emailaddress=non-empty,nickname=non-empty,ticket=choose,"
+going to show errors to ""
+user sees errors: "emailaddress=non-empty,nickname=non-empty,ticket=choose,"
+
+-----
+register post received from "Stijn Meppellenbroek" () coming for "" and ""
+security check done, errors: "emailaddress=non-empty,nickname=non-empty,ticket=choose,"
+going to show errors to ""
+user sees errors: "emailaddress=non-empty,nickname=non-empty,ticket=choose,"
+
+-----
+register post received from "Remco Bon" (Remcobon@hotmail.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Remco Bon,emailaddress=Remcobon@hotmail.com,nickname=BoNZaI,ticket=dag,ticketextra=,sharing=,comments=,ip=81.205.40.181,time=2009-09-04T12:50:46+02:00,"
+ready for database write, data: "`fullname` = 'Remco Bon',`emailaddress` = 'Remcobon@hotmail.com',`username` = 'BoNZaI',`ticket` = 'dag',`sharing` = '',`comments` = '',`ip` = '81.205.40.181',`time` = '2009-09-04T12:50:46+02:00'"
+new user, not logged in.. row inserted for "Remcobon@hotmail.com", errors: ""
+send next screen to "" (Remcobon@hotmail.com)
+user "BoNZaI" (16) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Iris Savelkouls" (Jongewolven@gmail.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Iris Savelkouls,emailaddress=Jongewolven@gmail.com,nickname=Akela,ticket=dag,ticketextra=,sharing=,comments=,ip=145.97.219.201,time=2009-09-08T18:06:10+02:00,"
+ready for database write, data: "`fullname` = 'Iris Savelkouls',`emailaddress` = 'Jongewolven@gmail.com',`username` = 'Akela',`ticket` = 'dag',`sharing` = '',`comments` = '',`ip` = '145.97.219.201',`time` = '2009-09-08T18:06:10+02:00'"
+new user, not logged in.. row inserted for "Jongewolven@gmail.com", errors: ""
+send next screen to "" (Jongewolven@gmail.com)
+user "Akela" (17) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Judith Esser" (judith@damaru.nl) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Judith Esser,emailaddress=judith@damaru.nl,nickname=Judith,ticket=dag,ticketextra=,sharing=Judith komt met haar spirituele gereedschapskoffer van Ascension, waar je nieuwsgierig in kan grasduinen. Leuk om puur op intuïtie iets uit te kiezen, of omdat de vorm van een Tool je aanspreekt of de kleur je bevalt. En dan horen waar dat door jou gekozen stuk gereedschap voor dient. Dat is ook toevallig! Het veegt je overspannen denkhoofd leeg. Het opent je om liefde te ontvangen. Het helpt je meer zelfvertrouwen te ontwikkelen. Het helpt je bescherming op te bouwen tegen die lawine aan invloeden van buitenaf. Om maar wat te noemen.,comments=Het is wel fijn als ik over een tafel kan beschikken om de instrumenten uit mijn koffer op te zetten.,ip=82.95.246.156,time=2009-09-08T22:06:36+02:00,"
+ready for database write, data: "`fullname` = 'Judith Esser',`emailaddress` = 'judith@damaru.nl',`username` = 'Judith',`ticket` = 'dag',`sharing` = 'Judith komt met haar spirituele gereedschapskoffer van Ascension, waar je nieuwsgierig in kan grasduinen. Leuk om puur op intuïtie iets uit te kiezen, of omdat de vorm van een Tool je aanspreekt of de kleur je bevalt. En dan horen waar dat door jou gekozen stuk gereedschap voor dient. Dat is ook toevallig! Het veegt je overspannen denkhoofd leeg. Het opent je om liefde te ontvangen. Het helpt je meer zelfvertrouwen te ontwikkelen. Het helpt je bescherming op te bouwen tegen die lawine aan invloeden van buitenaf. Om maar wat te noemen.',`comments` = 'Het is wel fijn als ik over een tafel kan beschikken om de instrumenten uit mijn koffer op te zetten.',`ip` = '82.95.246.156',`time` = '2009-09-08T22:06:36+02:00'"
+new user, not logged in.. row inserted for "judith@damaru.nl", errors: ""
+send next screen to "" (judith@damaru.nl)
+user "Judith" (18) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Arend Zeevat" (sanjari02@hotmail.com) coming for "dag" and ""
+security check done, errors: "nickname=non-empty,"
+going to show errors to "sanjari02@hotmail.com"
+user sees errors: "nickname=non-empty,"
+
+-----
+register post received from "Arend Zeevat" (sanjari02@hotmail.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Arend Zeevat,emailaddress=sanjari02@hotmail.com,nickname=Sanjari,ticket=dag,ticketextra=,sharing=Het onderwerp 'Jongeren en veiligheid'. Graag wil ik daar verkennend over praten met hen die daarin geïnteresseerd zijn.,comments=,ip=24.132.88.151,time=2009-09-10T12:38:15+02:00,"
+ready for database write, data: "`fullname` = 'Arend Zeevat',`emailaddress` = 'sanjari02@hotmail.com',`username` = 'Sanjari',`ticket` = 'dag',`sharing` = 'Het onderwerp \'Jongeren en veiligheid\'. Graag wil ik daar verkennend over praten met hen die daarin geïnteresseerd zijn.',`comments` = '',`ip` = '24.132.88.151',`time` = '2009-09-10T12:38:15+02:00'"
+new user, not logged in.. row inserted for "sanjari02@hotmail.com", errors: ""
+send next screen to "" (sanjari02@hotmail.com)
+user "Sanjari" (19) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Sipke Schoorstra" (sipke@mensenspirit.nl) coming for "" and "dag_overnacht"
+security check done, errors: "ticket=choose,"
+going to show errors to "sipke@mensenspirit.nl"
+user sees errors: "ticket=choose,"
+
+-----
+register post received from "Sipke Schoorstra" (sipke@mensenspirit.nl) coming for "dag" and "dag_overnacht"
+security check done, errors: ""
+start saving process, reg data: "fullname=Sipke Schoorstra,emailaddress=sipke@mensenspirit.nl,nickname=Tyken,ticket=dag_overnacht,ticketextra=dag_overnacht,sharing=,comments=,ip=212.127.247.167,time=2009-09-12T00:58:09+02:00,"
+ready for database write, data: "`fullname` = 'Sipke Schoorstra',`emailaddress` = 'sipke@mensenspirit.nl',`username` = 'Tyken',`ticket` = 'dag_overnacht',`sharing` = '',`comments` = '',`ip` = '212.127.247.167',`time` = '2009-09-12T00:58:09+02:00'"
+new user, not logged in.. row inserted for "sipke@mensenspirit.nl", errors: ""
+send next screen to "" (sipke@mensenspirit.nl)
+user "Tyken" (20) arrived at screen 2 (confirm one)
+user "sipke@mensenspirit.nl" arrived at screen 3 (re-check one)
+user "sipke@mensenspirit.nl" arrived at screen 3 (re-check one)
+user "sipke@mensenspirit.nl" arrived at screen 3 (re-check one)
+
+-----
+register post received from "Rieky Peeters" (h.peeters@upcmail.nl) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Rieky Peeters,emailaddress=h.peeters@upcmail.nl,nickname=Kiki,ticket=dag,ticketextra=,sharing=Ik ben bijzonder geïnteresseerd in Astrologie en Ascention Glas Inspiration,comments=,ip=77.248.114.69,time=2009-09-14T17:58:45+02:00,"
+ready for database write, data: "`fullname` = 'Rieky Peeters',`emailaddress` = 'h.peeters@upcmail.nl',`username` = 'Kiki',`ticket` = 'dag',`sharing` = 'Ik ben bijzonder geïnteresseerd in Astrologie en Ascention Glas Inspiration',`comments` = '',`ip` = '77.248.114.69',`time` = '2009-09-14T17:58:45+02:00'"
+new user, not logged in.. row inserted for "h.peeters@upcmail.nl", errors: ""
+send next screen to "" (h.peeters@upcmail.nl)
+user "Kiki" (21) arrived at screen 2 (confirm one)
+user "judith@damaru.nl" arrived at screen 3 (re-check one)
+user "judith@damaru.nl" arrived at screen 3 (re-check one)
+user "h.peeters@upcmail.nl" arrived at screen 3 (re-check one)
+
+-----
+register post received from "Johan Zijlstra" (whahas@gmail.com) coming for "dag" and "dag_overnacht"
+security check done, errors: ""
+start saving process, reg data: "fullname=Johan Zijlstra,emailaddress=whahas@gmail.com,nickname=whaha,ticket=dag_overnacht,ticketextra=dag_overnacht,sharing=Geestesoog, entiteiten, collectief bewustzijn, verschillende paden van bewustzijn,comments=Ik mag vast wel wat Zeitgeist Addendum Dvd's uitdelen, hé?,ip=82.197.204.216,time=2009-09-28T17:31:28+02:00,"
+ready for database write, data: "`fullname` = 'Johan Zijlstra',`emailaddress` = 'whahas@gmail.com',`username` = 'whaha',`ticket` = 'dag_overnacht',`sharing` = 'Geestesoog, entiteiten, collectief bewustzijn, verschillende paden van bewustzijn',`comments` = 'Ik mag vast wel wat Zeitgeist Addendum Dvd\'s uitdelen, hé?',`ip` = '82.197.204.216',`time` = '2009-09-28T17:31:28+02:00'"
+new user, not logged in.. row inserted for "whahas@gmail.com", errors: ""
+send next screen to "" (whahas@gmail.com)
+user "whaha" (23) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Lea Manders," (leamanders@upcmail.nl) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Lea Manders,,emailaddress=leamanders@upcmail.nl,nickname=Lea Manders,ticket=dag,ticketextra=,sharing=,comments=,ip=24.132.88.151,time=2009-09-29T11:27:54+02:00,"
+ready for database write, data: "`fullname` = 'Lea Manders,',`emailaddress` = 'leamanders@upcmail.nl',`username` = 'Lea Manders',`ticket` = 'dag',`sharing` = '',`comments` = '',`ip` = '24.132.88.151',`time` = '2009-09-29T11:27:54+02:00'"
+new user, not logged in.. row inserted for "leamanders@upcmail.nl", errors: ""
+send next screen to "" (leamanders@upcmail.nl)
+user "Lea Manders" (24) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Lars Jansing" (larsweb2@hotmail.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Lars Jansing,emailaddress=larsweb2@hotmail.com,nickname=larsweb,ticket=dag,ticketextra=,sharing=,comments=ben benieuwd,ip=130.89.173.27,time=2009-09-29T16:27:16+02:00,"
+ready for database write, data: "`fullname` = 'Lars Jansing',`emailaddress` = 'larsweb2@hotmail.com',`username` = 'larsweb',`ticket` = 'dag',`sharing` = '',`comments` = 'ben benieuwd',`ip` = '130.89.173.27',`time` = '2009-09-29T16:27:16+02:00'"
+new user, not logged in.. row inserted for "larsweb2@hotmail.com", errors: ""
+send next screen to "" (larsweb2@hotmail.com)
+user "larsweb" (25) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Ruud Baars" (r.baars00@chello.nl) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Ruud Baars,emailaddress=r.baars00@chello.nl,nickname=Ruud,ticket=dag,ticketextra=,sharing=,comments=,ip=95.96.82.12,time=2009-10-01T20:51:30+02:00,"
+ready for database write, data: "`fullname` = 'Ruud Baars',`emailaddress` = 'r.baars00@chello.nl',`username` = 'Ruud',`ticket` = 'dag',`sharing` = '',`comments` = '',`ip` = '95.96.82.12',`time` = '2009-10-01T20:51:30+02:00'"
+new user, not logged in.. row inserted for "r.baars00@chello.nl", errors: ""
+send next screen to "" (r.baars00@chello.nl)
+user "Ruud" (26) arrived at screen 2 (confirm one)
+user "r.baars00@chello.nl" arrived at screen 3 (re-check one)
+
+-----
+register post received from "Norma Stroo" (n.stroo@hotmail.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Norma Stroo,emailaddress=n.stroo@hotmail.com,nickname=Norma,ticket=dag,ticketextra=,sharing=,comments=,ip=95.96.82.12,time=2009-10-01T20:54:31+02:00,"
+ready for database write, data: "`fullname` = 'Norma Stroo',`emailaddress` = 'n.stroo@hotmail.com',`username` = 'Norma',`ticket` = 'dag',`sharing` = '',`comments` = '',`ip` = '95.96.82.12',`time` = '2009-10-01T20:54:31+02:00'"
+new user, not logged in.. row inserted for "n.stroo@hotmail.com", errors: ""
+send next screen to "" (n.stroo@hotmail.com)
+user "Norma" (27) arrived at screen 2 (confirm one)
+
+-----
+register post received from "balder" (balderclaassen@xs4all.nl) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=balder,emailaddress=balderclaassen@xs4all.nl,nickname=balder,ticket=dag,ticketextra=,sharing=,comments=ik heb er zin in !,ip=82.95.246.156,time=2009-10-01T23:24:12+02:00,"
+ready for database write, data: "`fullname` = 'balder',`emailaddress` = 'balderclaassen@xs4all.nl',`username` = 'balder',`ticket` = 'dag',`sharing` = '',`comments` = 'ik heb er zin in !',`ip` = '82.95.246.156',`time` = '2009-10-01T23:24:12+02:00'"
+new user, not logged in.. row inserted for "balderclaassen@xs4all.nl", errors: ""
+send next screen to "" (balderclaassen@xs4all.nl)
+user "balder" (28) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Marlijn Rensen" (marlijnrensen@gmail.com) coming for "overnacht" and ""
+security check done, errors: "nickname=non-empty,"
+going to show errors to "marlijnrensen@gmail.com"
+user sees errors: "nickname=non-empty,"
+
+-----
+register post received from "Marlijn Rensen" (marlijnrensen@gmail.com) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Marlijn Rensen,emailaddress=marlijnrensen@gmail.com,nickname=Ayla,ticket=overnacht,ticketextra=,sharing=,comments=Ik kom met 2 personen en we blijven niet slapen.,ip=77.160.104.108,time=2009-10-02T20:14:23+02:00,"
+ready for database write, data: "`fullname` = 'Marlijn Rensen',`emailaddress` = 'marlijnrensen@gmail.com',`username` = 'Ayla',`ticket` = 'overnacht',`sharing` = '',`comments` = 'Ik kom met 2 personen en we blijven niet slapen.',`ip` = '77.160.104.108',`time` = '2009-10-02T20:14:23+02:00'"
+new user, not logged in.. row inserted for "marlijnrensen@gmail.com", errors: ""
+send next screen to "" (marlijnrensen@gmail.com)
+user "Ayla" (29) arrived at screen 2 (confirm one)
+
+-----
+register post received from "AFZAL  SIDDIQUE" (Afzalvrolijkman2009@gmail.com) coming for "" and ""
+security check done, errors: "ticket=choose,"
+going to show errors to "Afzalvrolijkman2009@gmail.com"
+user sees errors: "ticket=choose,"
+
+-----
+register post received from "AFZAL  SIDDIQUE" (Afzalvrolijkman2009@gmail.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=AFZAL  SIDDIQUE,emailaddress=Afzalvrolijkman2009@gmail.com,nickname=Vrolijk & Gezellige jonge man 2009,ticket=dag,ticketextra=,sharing=,comments=,ip=80.56.137.54,time=2009-10-05T00:46:34+02:00,"
+ready for database write, data: "`fullname` = 'AFZAL  SIDDIQUE',`emailaddress` = 'Afzalvrolijkman2009@gmail.com',`username` = 'Vrolijk & Gezellige jonge man 2009',`ticket` = 'dag',`sharing` = '',`comments` = '',`ip` = '80.56.137.54',`time` = '2009-10-05T00:46:34+02:00'"
+new user, not logged in.. row inserted for "Afzalvrolijkman2009@gmail.com", errors: ""
+send next screen to "" (Afzalvrolijkman2009@gmail.com)
+user "" () arrived at screen 2 (confirm one)
+user "" arrived at screen 3 (re-check one)
+user "" arrived at screen 3 (re-check one)
+user "balderclaassen@xs4all.nl" arrived at screen 3 (re-check one)
+user "Jongewolven@gmail.com" arrived at screen 3 (re-check one)
+user "Jongewolven@gmail.com" arrived at screen 3 (re-check one)
+user "Jongewolven@gmail.com" arrived at screen 3 (re-check one)
+user "Jongewolven@gmail.com" arrived at screen 3 (re-check one)
+user "Jongewolven@gmail.com" arrived at screen 3 (re-check one)
+
+-----
+register post received from "oezwxji" (ejarvu@qovjjl.com) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=oezwxji,emailaddress=ejarvu@qovjjl.com,nickname=oezwxji,ticket=overnacht,ticketextra=,sharing=clsK0M  <a href="http://nnvrmobembij.com/">nnvrmobembij</a>, [url=http://kgndiacdmaxc.com/]kgndiacdmaxc[/url], [link=http://zwizynkjllnl.com/]zwizynkjllnl[/link], http://kjeadehssrpg.com/,comments=clsK0M  <a href="http://nnvrmobembij.com/">nnvrmobembij</a>, [url=http://kgndiacdmaxc.com/]kgndiacdmaxc[/url], [link=http://zwizynkjllnl.com/]zwizynkjllnl[/link], http://kjeadehssrpg.com/,ip=212.72.6.6,time=2009-11-12T22:18:07+01:00,"
+ready for database write, data: "`fullname` = 'oezwxji',`emailaddress` = 'ejarvu@qovjjl.com',`username` = 'oezwxji',`ticket` = 'overnacht',`sharing` = 'clsK0M  <a href=\"http://nnvrmobembij.com/\">nnvrmobembij</a>, [url=http://kgndiacdmaxc.com/]kgndiacdmaxc[/url], [link=http://zwizynkjllnl.com/]zwizynkjllnl[/link], http://kjeadehssrpg.com/',`comments` = 'clsK0M  <a href=\"http://nnvrmobembij.com/\">nnvrmobembij</a>, [url=http://kgndiacdmaxc.com/]kgndiacdmaxc[/url], [link=http://zwizynkjllnl.com/]zwizynkjllnl[/link], http://kjeadehssrpg.com/',`ip` = '212.72.6.6',`time` = '2009-11-12T22:18:07+01:00'"
+new user, not logged in.. row inserted for "ejarvu@qovjjl.com", errors: ""
+send next screen to "" (ejarvu@qovjjl.com)
+user "oezwxji" (34) arrived at screen 2 (confirm one)
+
+-----
+register post received from "fmvjvp" (bpwqsx@kcpgsl.com) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=fmvjvp,emailaddress=bpwqsx@kcpgsl.com,nickname=fmvjvp,ticket=overnacht,ticketextra=,sharing=1r1Gls  <a href="http://jnyadjyhlqbs.com/">jnyadjyhlqbs</a>, [url=http://ejrswtxjkpoe.com/]ejrswtxjkpoe[/url], [link=http://trhmanxvffes.com/]trhmanxvffes[/link], http://vmvqokwvtwvp.com/,comments=1r1Gls  <a href="http://jnyadjyhlqbs.com/">jnyadjyhlqbs</a>, [url=http://ejrswtxjkpoe.com/]ejrswtxjkpoe[/url], [link=http://trhmanxvffes.com/]trhmanxvffes[/link], http://vmvqokwvtwvp.com/,ip=66.147.136.40,time=2009-12-28T17:53:51+01:00,"
+ready for database write, data: "`fullname` = 'fmvjvp',`emailaddress` = 'bpwqsx@kcpgsl.com',`username` = 'fmvjvp',`ticket` = 'overnacht',`sharing` = '1r1Gls  <a href=\"http://jnyadjyhlqbs.com/\">jnyadjyhlqbs</a>, [url=http://ejrswtxjkpoe.com/]ejrswtxjkpoe[/url], [link=http://trhmanxvffes.com/]trhmanxvffes[/link], http://vmvqokwvtwvp.com/',`comments` = '1r1Gls  <a href=\"http://jnyadjyhlqbs.com/\">jnyadjyhlqbs</a>, [url=http://ejrswtxjkpoe.com/]ejrswtxjkpoe[/url], [link=http://trhmanxvffes.com/]trhmanxvffes[/link], http://vmvqokwvtwvp.com/',`ip` = '66.147.136.40',`time` = '2009-12-28T17:53:51+01:00'"
+new user, not logged in.. row inserted for "bpwqsx@kcpgsl.com", errors: ""
+send next screen to "" (bpwqsx@kcpgsl.com)
+user "fmvjvp" (36) arrived at screen 2 (confirm one)
+
+-----
+register post received from "mehqjtyfzja" (ayxvku@gybvkw.com) coming for "dag" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=mehqjtyfzja,emailaddress=ayxvku@gybvkw.com,nickname=mehqjtyfzja,ticket=dag,ticketextra=,sharing=5aH7Ux  <a href="http://dqbbxsdlsdxy.com/">dqbbxsdlsdxy</a>, [url=http://sincvznzjilv.com/]sincvznzjilv[/url], [link=http://gobncjfaqwvu.com/]gobncjfaqwvu[/link], http://rzdqdxutljlv.com/,comments=5aH7Ux  <a href="http://dqbbxsdlsdxy.com/">dqbbxsdlsdxy</a>, [url=http://sincvznzjilv.com/]sincvznzjilv[/url], [link=http://gobncjfaqwvu.com/]gobncjfaqwvu[/link], http://rzdqdxutljlv.com/,ip=80.150.105.238,time=2010-03-01T18:33:14+01:00,"
+ready for database write, data: "`fullname` = 'mehqjtyfzja',`emailaddress` = 'ayxvku@gybvkw.com',`username` = 'mehqjtyfzja',`ticket` = 'dag',`sharing` = '5aH7Ux  <a href=\"http://dqbbxsdlsdxy.com/\">dqbbxsdlsdxy</a>, [url=http://sincvznzjilv.com/]sincvznzjilv[/url], [link=http://gobncjfaqwvu.com/]gobncjfaqwvu[/link], http://rzdqdxutljlv.com/',`comments` = '5aH7Ux  <a href=\"http://dqbbxsdlsdxy.com/\">dqbbxsdlsdxy</a>, [url=http://sincvznzjilv.com/]sincvznzjilv[/url], [link=http://gobncjfaqwvu.com/]gobncjfaqwvu[/link], http://rzdqdxutljlv.com/',`ip` = '80.150.105.238',`time` = '2010-03-01T18:33:14+01:00'"
+new user, not logged in.. row inserted for "ayxvku@gybvkw.com", errors: ""
+send next screen to "" (ayxvku@gybvkw.com)
+user "mehqjtyfzja" (38) arrived at screen 2 (confirm one)
+
+-----
+register post received from "oxsneup" (fsvtsp@egnghe.com) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=oxsneup,emailaddress=fsvtsp@egnghe.com,nickname=oxsneup,ticket=overnacht,ticketextra=,sharing=tI8YR5  <a href="http://rglbmmprhtwj.com/">rglbmmprhtwj</a>, [url=http://nicwwfvjhfnn.com/]nicwwfvjhfnn[/url], [link=http://eejlfwiivkpx.com/]eejlfwiivkpx[/link], http://wwsmsbzczdiw.com/,comments=tI8YR5  <a href="http://rglbmmprhtwj.com/">rglbmmprhtwj</a>, [url=http://nicwwfvjhfnn.com/]nicwwfvjhfnn[/url], [link=http://eejlfwiivkpx.com/]eejlfwiivkpx[/link], http://wwsmsbzczdiw.com/,ip=112.78.127.68,time=2010-04-25T12:15:25+02:00,"
+ready for database write, data: "`fullname` = 'oxsneup',`emailaddress` = 'fsvtsp@egnghe.com',`username` = 'oxsneup',`ticket` = 'overnacht',`sharing` = 'tI8YR5  <a href=\"http://rglbmmprhtwj.com/\">rglbmmprhtwj</a>, [url=http://nicwwfvjhfnn.com/]nicwwfvjhfnn[/url], [link=http://eejlfwiivkpx.com/]eejlfwiivkpx[/link], http://wwsmsbzczdiw.com/',`comments` = 'tI8YR5  <a href=\"http://rglbmmprhtwj.com/\">rglbmmprhtwj</a>, [url=http://nicwwfvjhfnn.com/]nicwwfvjhfnn[/url], [link=http://eejlfwiivkpx.com/]eejlfwiivkpx[/link], http://wwsmsbzczdiw.com/',`ip` = '112.78.127.68',`time` = '2010-04-25T12:15:25+02:00'"
+new user, not logged in.. row inserted for "fsvtsp@egnghe.com", errors: ""
+send next screen to "" (fsvtsp@egnghe.com)
+user "oxsneup" (39) arrived at screen 2 (confirm one)
+
+-----
+register post received from "xyvbrvr" (zvpgbr@susurx.com) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=xyvbrvr,emailaddress=zvpgbr@susurx.com,nickname=xyvbrvr,ticket=overnacht,ticketextra=,sharing=dstXLU  <a href="http://uzuyxphobshs.com/">uzuyxphobshs</a>, [url=http://yogucdqyolwj.com/]yogucdqyolwj[/url], [link=http://homdrwmkxypz.com/]homdrwmkxypz[/link], http://ryavjcdythdr.com/,comments=dstXLU  <a href="http://uzuyxphobshs.com/">uzuyxphobshs</a>, [url=http://yogucdqyolwj.com/]yogucdqyolwj[/url], [link=http://homdrwmkxypz.com/]homdrwmkxypz[/link], http://ryavjcdythdr.com/,ip=202.98.123.126,time=2011-03-12T20:23:03+01:00,"
+ready for database write, data: "`fullname` = 'xyvbrvr',`emailaddress` = 'zvpgbr@susurx.com',`username` = 'xyvbrvr',`ticket` = 'overnacht',`sharing` = 'dstXLU  <a href=\"http://uzuyxphobshs.com/\">uzuyxphobshs</a>, [url=http://yogucdqyolwj.com/]yogucdqyolwj[/url], [link=http://homdrwmkxypz.com/]homdrwmkxypz[/link], http://ryavjcdythdr.com/',`comments` = 'dstXLU  <a href=\"http://uzuyxphobshs.com/\">uzuyxphobshs</a>, [url=http://yogucdqyolwj.com/]yogucdqyolwj[/url], [link=http://homdrwmkxypz.com/]homdrwmkxypz[/link], http://ryavjcdythdr.com/',`ip` = '202.98.123.126',`time` = '2011-03-12T20:23:03+01:00'"
+new user, not logged in.. row inserted for "zvpgbr@susurx.com", errors: ""
+send next screen to "" (zvpgbr@susurx.com)
+user "xyvbrvr" (43) arrived at screen 2 (confirm one)
+
+-----
+register post received from "Jalia" (a.qexeskeagh@apache.ph) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=Jalia,emailaddress=a.qexeskeagh@apache.ph,nickname=Jalia,ticket=overnacht,ticketextra=,sharing=That inigsht's just what I've been looking for. Thanks!,comments=That inigsht's just what I've been looking for. Thanks!,ip=188.143.232.12,time=2013-01-09T07:08:16+01:00,"
+ready for database write, data: "`fullname` = 'Jalia',`emailaddress` = 'a.qexeskeagh@apache.ph',`username` = 'Jalia',`ticket` = 'overnacht',`sharing` = 'That inigsht\'s just what I\'ve been looking for. Thanks!',`comments` = 'That inigsht\'s just what I\'ve been looking for. Thanks!',`ip` = '188.143.232.12',`time` = '2013-01-09T07:08:16+01:00'"
+new user, not logged in.. row inserted for "a.qexeskeagh@apache.ph", errors: ""
+send next screen to "" (a.qexeskeagh@apache.ph)
+user "Jalia" (44) arrived at screen 2 (confirm one)
+
+-----
+register post received from "dskaig" (owrohz@netwbf.com) coming for "overnacht" and ""
+security check done, errors: ""
+start saving process, reg data: "fullname=dskaig,emailaddress=owrohz@netwbf.com,nickname=dskaig,ticket=overnacht,ticketextra=,sharing=fVLnsK  <a href="http://lpldlzauwaru.com/">lpldlzauwaru</a>, [url=http://iwyvepyqpisu.com/]iwyvepyqpisu[/url], [link=http://wzqxftdgtrii.com/]wzqxftdgtrii[/link], http://ahknayqynttz.com/,comments=fVLnsK  <a href="http://lpldlzauwaru.com/">lpldlzauwaru</a>, [url=http://iwyvepyqpisu.com/]iwyvepyqpisu[/url], [link=http://wzqxftdgtrii.com/]wzqxftdgtrii[/link], http://ahknayqynttz.com/,ip=195.2.240.103,time=2014-08-25T08:48:29+02:00,"
+ready for database write, data: "`fullname` = 'dskaig',`emailaddress` = 'owrohz@netwbf.com',`username` = 'dskaig',`ticket` = 'overnacht',`sharing` = 'fVLnsK  <a href=\"http://lpldlzauwaru.com/\">lpldlzauwaru</a>, [url=http://iwyvepyqpisu.com/]iwyvepyqpisu[/url], [link=http://wzqxftdgtrii.com/]wzqxftdgtrii[/link], http://ahknayqynttz.com/',`comments` = 'fVLnsK  <a href=\"http://lpldlzauwaru.com/\">lpldlzauwaru</a>, [url=http://iwyvepyqpisu.com/]iwyvepyqpisu[/url], [link=http://wzqxftdgtrii.com/]wzqxftdgtrii[/link], http://ahknayqynttz.com/',`ip` = '195.2.240.103',`time` = '2014-08-25T08:48:29+02:00'"
+new user, not logged in.. row inserted for "owrohz@netwbf.com", errors: ""
+send next screen to "" (owrohz@netwbf.com)
+user "dskaig" (45) arrived at screen 2 (confirm one)

@@ -1,0 +1,164 @@
+/* general: body, reset, links, headers */
+body {
+	position: relative;
+	font: small Verdana, sans-serif, helvetica;
+	color: #000;
+	background-color: #303030;
+}
+
+a img {
+	border-width: 0;
+}
+
+ul li { list-style-type: circle; }
+ol li { list-style-type: decimal; }
+
+h2, h3, h4 {
+	color: #F80;
+}
+h2, h3 {
+	border-bottom: 2px solid #F80;
+}
+
+a, a:link { color: #F50; }
+a:visited { color: #F00; }
+a:hover, a:focus { color: #F50; text-decoration: none; }
+a:active { color: #F00; }
+
+/* helper: forms, notifications, errors */
+
+/* structure: page skeleton */
+body {
+	margin: 0 auto;
+	width: 700px;
+	background-image: url(flyer-laag.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+h1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#menu {
+	position: absolute;
+	top: 10em;
+	left: 0;
+	width: 11em;
+	overflow: hidden;
+	padding: 0;
+}
+#license {
+	position: absolute;
+	top: 30em;
+	left: 0;
+}
+#main {
+	position: absolute;
+	top: 10em;
+	left: 0;
+	width: 42em;
+	/*height: 65em;*/
+	overflow: auto;
+	margin-left: 11.5em;
+	padding: 0.1em 0;
+	background-color: #FFF;
+	/*
+	opacity: 0.75;
+	filter: alpha(opacity=75);
+	*/
+}
+
+/* components: the hard work */
+h1 {
+	width: 700px;
+	text-align: center;
+}
+#menu li {
+	margin: 0.5em 0;
+	font-size: medium;
+	font-weight: bold;
+	list-style-type: none;
+}
+#menu li a {
+	text-decoration: none;
+}
+#menu li a:hover, #menu li a:focus {
+	text-decoration: underline;
+}
+h2, h3, h4, p {
+	margin: 1em;
+}
+h3, h4 {
+	clear: both;
+}
+p, li {
+	line-height: 1.5em;
+}
+.events {
+	font-weight: bold
+}
+.join, .joined {
+	float: right;
+	margin-top: 0;
+	padding: 0.5em;
+	max-width: 200px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #505;
+	/*
+	opacity: 1;
+	filter: alpha(opacity=100);
+	*/
+}
+.join:hover, .join:focus {
+	background-color: #808;
+}
+form fieldset {
+	margin: 1em;
+	padding: 1em;
+	border: 1px solid #808;
+}
+form br {
+	clear: left;
+}
+form h3 {
+	margin: 0;
+	margin-top: 1em;
+}
+form label {
+	float: left;
+	width: 150px;
+}
+form label.box {
+	width: 200px;
+}
+form input, form select, form textarea {
+	float: left;
+	width: 300px;
+}
+form input.box {
+	width: auto;
+}
+form input.submit {
+	width: auto;
+}
+.events-start {
+	float: right;
+	margin-top: 5em;
+	padding: 0.5em;
+	width: 150px;
+	border: 1px solid #808;
+}
+.foto {
+	float: right;
+	margin: 0 0 0.5em 0.5em;
+	border: 1px solid #808;
+}
+.quote {
+	margin-left: 2em;
+	border-left: 1px solid #808;
+}
+
+/* overrides: fixing */

@@ -1,0 +1,49 @@
+	<form action="./index.php?p=Aanmelden" method="post">
+		<fieldset><div class="ie-fieldset-repair">
+			
+			<label for="fullname">Volledige naam</label>
+			<input id="fullname" name="fullname" type="text" tabindex="1" value="{FULLNAME}" />
+			<br />
+			
+			<label for="emailaddress">E-mailadres</label>
+			<input id="emailaddress" name="emailaddress" type="text" tabindex="2" value="{EMAILADDRESS}" />
+			<br />
+			
+			<label for="nickname">Nickname</label>
+			<input id="nickname" name="nickname" type="text" tabindex="3" value="{NICKNAME}" />
+			<br />
+			
+			<h3>Kaartje</h3>
+			<p>Kaartjes voor de Open Space dag kosten <strong>&euro;{TICKET_DAG}</strong>. Maaltijden zijn niet inbegrepen en moet je zelf meenemen. Als je ook blijft overnachten betaal je <strong>&euro;{TICKET_DAG_OVERNACHT}</strong> in ruil voor een lekker ontbijtje voor jou ;-)</p>
+			<p>Als je na 20:00 uur komt betaal je &euro;{TICKET_OVERNACHT}, daar zit de overnachting ook bij.</p>
+			
+			<input id="ticketday" name="ticket" type="radio" class="box" tabindex="4" value="dag" {CHECKED_TICKET_DAG} />
+			<label for="ticketday" class="box">Open Space dag (&euro;{TICKET_DAG})</label>
+			<input id="ticketextra" name="ticketextra" type="checkbox" class="box" tabindex="5" value="dag_overnacht" {CHECKED_TICKET_DAG_OVERNACHT} />
+			<label for="ticketextra" class="box">incl. slapen & ontbijt (&euro;{TICKET_DAG_OVERNACHT})</label>
+			<br />
+			<input id="ticketnacht" name="ticket" type="radio" class="box" value="overnacht" {CHECKED_TICKET_OVERNACHT} />
+			<label for="ticketnacht" style="width: auto;">Alleen na 20:00, feest met overnachting (&euro;{TICKET_OVERNACHT})</label>
+			<br />
+			<p>Dit bedrag moet je van te voren overmaken.</p>
+			
+			<h3>Extra informatie</h3>
+			<p>We horen graag wat meer van je. Dit hoef je niet in te vullen, maar het helpt ons om de dag in te richten.</p>
+			
+			<label for="sharing">Zoals je weet is er een Open Space. Wat wil jij delen met anderen?</label>
+			<textarea id="sharing" name="sharing" tabindex="7">{SHARING}</textarea>
+			<br />
+			
+			<h3>Opsturen</h3>
+			
+			<label for="comments">Wil je nog wat kwijt?</label>
+			<textarea id="comments" name="comments" tabindex="8">{COMMENTS}</textarea>
+			<br />
+			
+			<input class="submit" value="Opsturen" type="submit" tabindex="9" />
+			<br />
+			
+		</div></fieldset>
+	</form>
+	
+	<p>Als je toch niet kan, neem dan <a href="index.php?p=Contact">contact</a> met ons op. Meld het vóór 26 september, anders moet je helaas alsnog betalen.</p>

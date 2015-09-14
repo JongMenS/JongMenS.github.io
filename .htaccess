@@ -1,0 +1,11 @@
+# turn on mod rewrite
+RewriteEngine on
+
+# temporary maintenance
+# place your own IP in the RewriteCond, so you can still access the wiki
+#RewriteCond %{REMOTE_ADDR} !^82\.95\.246\.156$
+#RewriteRule ^(.*)$ http://www.jongereninspiratiedag.nl/index.html [L]
+
+# redirect non-www to www
+RewriteCond %{HTTP_HOST} ^jongereninspiratiedag\.nl [NC]
+RewriteRule ^(.*)$ http://www.jongereninspiratiedag.nl/$1 [R=301]
